@@ -1,0 +1,22 @@
+body { 
+    margin: 0; 
+    overflow: hidden; 
+    font-family: Arial, sans-serif;
+}
+#info {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    background: rgba(56, 55, 55, 0.7);
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    width: 250px;
+}
+.planet-control {
+    margin: 8px 0;
+}
+label {
+    display: inline-block;
+    width: 80px;
+}

@@ -6,12 +6,6 @@ A **3D Solar System** simulation project built using **Three.js**, **HTML**, **C
 
 ---
 
-## 👩‍💻 Developed By
-
-**Bhoomika Salve**
-
----
-
 ## 📦 Project Contents
 
 ```
@@ -35,6 +29,11 @@ A **3D Solar System** simulation project built using **Three.js**, **HTML**, **C
 - ✅ **Mobile-responsive layout**
 - ❌ No external animation libraries or CSS animations used
 
+---
+## 🔗 Project Links
+
+- 🔴 **Live Demo**: [Click here to view](https://3d-solar-systen-app.netlify.app/) 
+- 📹 **Demo Video**: [Click here to watch](#) *(Replace `#` with your demo video link)*
 ---
 
 ## 🧪 How to Run This Project

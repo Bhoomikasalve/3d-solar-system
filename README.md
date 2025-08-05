@@ -12,8 +12,8 @@ A **3D Solar System** simulation project built using **Three.js**, **HTML**, **C
 
 📁 SolarSystem/
 ├── index.html       --> Main web page
-├── style.css        --> Styling for layout and responsiveness
-├── script.js        --> Logic for 3D rendering and animations
+├── main.css        --> Styling for layout and responsiveness
+├── main.js        --> Logic for 3D rendering and animations
 └── README.md        --> Project documentation
 
 ```
